@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "アンコール",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-04T07:07:21.692571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_アンコール_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_アンコール_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンコール - 初音ミク Ver.",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/03_アンコール_-_初音ミク_Ver._Ayase.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "YOASOBI - Topic",
+      "has_synced": true,
+      "path": "select/04_アンコール_YOASOBI_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/05_アンコール_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/06_アンコール_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/07_アンコール_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "Ayase feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/08_アンコール_Ayase_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/09_アンコール_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "宮野真守",
+      "has_synced": false,
+      "path": "select/10_アンコール_宮野真守.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/11_アンコール_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "Urashimasakatasen",
+      "has_synced": true,
+      "path": "select/12_アンコール_Urashimasakatasen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "Video • YOASOBI",
+      "has_synced": true,
+      "path": "select/13_アンコール_Video_•_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アンコール",
+      "artist": "Mamoru Miyano",
+      "has_synced": true,
+      "path": "select/14_アンコール_Mamoru_Miyano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンコール",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_アンコール_YOASOBI.txt"
+    }
+  ]
+}
